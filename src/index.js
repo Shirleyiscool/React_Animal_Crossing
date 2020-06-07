@@ -1,15 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { Provider } from 'react-redux';
+import { createStore, applyMiddleware } from 'redux';
+import { createLogger} from "redux-logger/src";
 import './index.css';
 import 'tachyons'
 import App from "./containers/App";
-import ErrorBoundry from "./components/ErrorBoundry";
+import {searchVillagers} from "./reducers";
+
 import * as serviceWorker from './serviceWorker';
 
+const logger = createLogger();
+const store = createStore(searchVillagers, applyMiddleware(logger))
 
-// Animal_crossing
 ReactDOM.render(
-    <App/>,
+    <Provider store={store}>
+        <App/>
+    </Provider>,
     document.getElementById('root')
 );
 
