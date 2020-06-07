@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React_Animal_Crossing/static/css/main.a704787f.chunk.css",
+    "main.js": "/React_Animal_Crossing/static/js/main.474fd61c.chunk.js",
+    "main.js.map": "/React_Animal_Crossing/static/js/main.474fd61c.chunk.js.map",
+    "runtime-main.js": "/React_Animal_Crossing/static/js/runtime-main.36b3a764.js",
+    "runtime-main.js.map": "/React_Animal_Crossing/static/js/runtime-main.36b3a764.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/React_Animal_Crossing/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.69cd8f67.chunk.js": "/React_Animal_Crossing/static/js/2.69cd8f67.chunk.js",
+    "static/js/2.69cd8f67.chunk.js.map": "/React_Animal_Crossing/static/js/2.69cd8f67.chunk.js.map",
+    "index.html": "/React_Animal_Crossing/index.html",
+    "precache-manifest.9a904820776fe02b1dfda1a206505e94.js": "/React_Animal_Crossing/precache-manifest.9a904820776fe02b1dfda1a206505e94.js",
+    "service-worker.js": "/React_Animal_Crossing/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/React_Animal_Crossing/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.a704787f.chunk.css.map": "/React_Animal_Crossing/static/css/main.a704787f.chunk.css.map",
+    "static/js/2.69cd8f67.chunk.js.LICENSE.txt": "/React_Animal_Crossing/static/js/2.69cd8f67.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React_Animal_Crossing/static/media/CHERI.372cc1d4.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36b3a764.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.69cd8f67.chunk.js",
+    "static/css/main.a704787f.chunk.css",
+    "static/js/main.474fd61c.chunk.js"
+  ]
+}
