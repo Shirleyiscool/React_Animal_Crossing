@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28cdb9efdc1a62bcc10b4a90baa4a32a",
+    "revision": "16bd06210a71f38e82601fbbd43e8f12",
     "url": "/React_Animal_Crossing/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React_Animal_Crossing/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "fb26dbd61d9cec122665",
-    "url": "/React_Animal_Crossing/static/css/main.a704787f.chunk.css"
+    "revision": "468b14c4ea89f2ec9f41",
+    "url": "/React_Animal_Crossing/static/css/main.4773eebc.chunk.css"
   },
   {
     "revision": "f142eca28224f2c2e0e8",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React_Animal_Crossing/static/js/2.69cd8f67.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fb26dbd61d9cec122665",
+    "revision": "468b14c4ea89f2ec9f41",
     "url": "/React_Animal_Crossing/static/js/main.474fd61c.chunk.js"
   },
   {

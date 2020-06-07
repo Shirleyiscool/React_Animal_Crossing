@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/React_Animal_Crossing/precache-manifest.9a904820776fe02b1dfda1a206505e94.js"
+  "/React_Animal_Crossing/precache-manifest.880c12f7985dec37b7350000ba1e03a0.js"
 );
 
 self.addEventListener('message', (event) => {
