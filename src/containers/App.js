@@ -3,6 +3,7 @@ import VillagerList from "../components/villagerList";
 import SearchBox from "../components/SearchBox";
 import Scroll from "../components/Scroll";
 import './App.css';
+import ErrorBoundry from "../components/ErrorBoundry";
 
 
 class App extends Component {
@@ -44,7 +45,9 @@ class App extends Component {
                     <h1 className='f1'>Animal Crossing Villagers</h1>
                     <SearchBox searchChange = {this.onSearchChange} searchField = {searchField}/>
                     <Scroll>
-                        <VillagerList data={filterAnimal}/>
+                        <ErrorBoundry>
+                            <VillagerList data={filterAnimal}/>
+                        </ErrorBoundry>
                     </Scroll>
                 </div>)
         }
