@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16bd06210a71f38e82601fbbd43e8f12",
+    "revision": "1bd92533dfc0d3ef8e2bb81d95eb53a6",
     "url": "/React_Animal_Crossing/index.html"
   },
   {
-    "revision": "f142eca28224f2c2e0e8",
+    "revision": "20d32c80db8dfca9d613",
     "url": "/React_Animal_Crossing/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "468b14c4ea89f2ec9f41",
+    "revision": "ec362ed63a2b1bde242e",
     "url": "/React_Animal_Crossing/static/css/main.4773eebc.chunk.css"
   },
   {
-    "revision": "f142eca28224f2c2e0e8",
-    "url": "/React_Animal_Crossing/static/js/2.69cd8f67.chunk.js"
+    "revision": "20d32c80db8dfca9d613",
+    "url": "/React_Animal_Crossing/static/js/2.767bf1cc.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/React_Animal_Crossing/static/js/2.69cd8f67.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/React_Animal_Crossing/static/js/2.767bf1cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "468b14c4ea89f2ec9f41",
-    "url": "/React_Animal_Crossing/static/js/main.474fd61c.chunk.js"
+    "revision": "ec362ed63a2b1bde242e",
+    "url": "/React_Animal_Crossing/static/js/main.4737d080.chunk.js"
   },
   {
     "revision": "5c3fa6c469944e0a2dfc",
